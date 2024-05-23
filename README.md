@@ -10,6 +10,8 @@
 
 - <span style="color: #ff93e4">[Pink](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20pink.theme.css 'Pink scheme') color scheme
 
+- <span style="color: #93ffed">[Mint](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20mint.theme.css 'Mint scheme') color scheme
+
 #
 
 **How to install?**
