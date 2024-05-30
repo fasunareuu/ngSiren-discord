@@ -23,5 +23,6 @@
 	--dnd-color:#ffffff;  /* Do not disturb color, не беспокоить цвет, default value: #ffffff */
 	--offline-color: #5c5c5c;  /* offline color, не в сети цвет, default value: #5c5c5c */
 	--white-color: #fff;  /* white color if need to change, белый цвет если нужно менять, default value: #fff */
+	--icon-url: url('https://i.pinimg.com/564x/ed/07/9d/ed079d36a5e01bd24137104457c627b2.jpg');
 }
 
