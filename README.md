@@ -1,5 +1,11 @@
 # **This is a BetterDiscord theme ngSiren**
 
+<div align="center">
+    <img src="./images/ngSiren.png" alt="ngSiren" />
+</div>
+
+#
+
 **_Scheme colors:_**
 
 - <span style="color: #ffdb93">[Yellow](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20yellow.theme.css 'Yellow scheme') color scheme
@@ -26,14 +32,24 @@ git clone https://github.com/fasunareuu/ngSiren-discord.git
 
 **_Example: "ngSiren blue.theme.css_"**
 
+## **Go to the settings discord, and find betterDiscord**
+
 <div align="left">
     <img src="./images/settings.png" alt="settings" />
 </div>
 
-#
+## **then click on this folder icon**
+
+<div align="left">
+    <img src="./images/theme discord.png" alt="settings" />
+</div>
+
+## **_And move to this folder your color scheme file_**
 
 <div align="left">
     <img src="./images/theme folder.png" alt="theme folder" />
 </div>
 
-**_And move to this folder your color scheme file_**
+<div align="center">
+
+# **That's all!**
