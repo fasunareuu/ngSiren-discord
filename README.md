@@ -24,6 +24,8 @@
 
 - <span style="color: #ffdb93">[Orange](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20orange.theme.css 'Orange scheme') color scheme
 
+- <span style="color: #20B953">[Green](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20green.theme.css 'green scheme') color scheme
+
 # **How to install?**
 
 ```github
