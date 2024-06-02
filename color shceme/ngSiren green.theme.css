@@ -1,0 +1,27 @@
+/**
+ * @name ngSiren green
+ * @author fsnareuu
+ * @description dark theme discord and Naga Siren from dota 2 icon
+ * @version 1.0.0
+ * @source https://github.com/fasunareuu
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+ /* HorizontalServerList made by: Gibbu#1211 */
+ @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+ 
+ @import url('https://fasunareuu.github.io/ngSiren-theme-discord/ngSiren.css');
+ 
+ 
+ :root {
+   --bg-color: rgba(26, 26, 26, 0.8); /* background, задний фон, default value: rgba(35, 35, 35, 0.8) */
+   --main-color: #20B953;;  /* main-color scheme theme, основная цветовая схема темы, default value: #ff93e4*/
+   --font: 'Montserrat';  /* font, шрифт, To install a third party font you need to go to google fonts and import it before root, and change the name in quotes */
+   --online-color: #00ff73;  /* online-color, в сети цвет, default value: #00ff73 */
+   --idle-color: #ff9b3e;  /* idle-color, отошел цвет, default value: #af3eff */
+   --dnd-color:#ffffff;  /* Do not disturb color, не беспокоить цвет, default value: #ffffff */
+   --offline-color: #5c5c5c;  /* offline color, не в сети цвет, default value: #5c5c5c */
+   --white-color: #fff;  /* white color if need to change, белый цвет если нужно менять, default value: #fff */
+   --icon-url: url('https://i.pinimg.com/564x/ed/07/9d/ed079d36a5e01bd24137104457c627b2.jpg');
+ }
