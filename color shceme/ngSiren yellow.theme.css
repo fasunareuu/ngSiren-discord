@@ -16,10 +16,10 @@
 
 :root {
 	--bg-color: rgba(26, 26, 26, 0.8); /* background, задний фон, default value: rgba(35, 35, 35, 0.8) */
-	--main-color: #ffdb93;;  /* main-color scheme theme, основная цветовая схема темы, default value: #ff93e4*/
+	--main-color: #ffdb93;;  /* main-color scheme theme, основная цветовая схема темы, default value: #ffdb93*/
 	--font: 'Montserrat';  /* font, шрифт, To install a third party font you need to go to google fonts and import it before root, and change the name in quotes */
 	--online-color: #00ff73;  /* online-color, в сети цвет, default value: #00ff73 */
-	--idle-color: #ff7b3e;  /* idle-color, отошел цвет, default value: #af3eff */
+	--idle-color: #ff7b3e;  /* idle-color, отошел цвет, default value: #ff7b3e */
 	--dnd-color:#ffffff;  /* Do not disturb color, не беспокоить цвет, default value: #ffffff */
 	--offline-color: #5c5c5c;  /* offline color, не в сети цвет, default value: #5c5c5c */
 	--white-color: #fff;  /* white color if need to change, белый цвет если нужно менять, default value: #fff */
