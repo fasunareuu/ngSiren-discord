@@ -28,6 +28,8 @@
 
 - <span style="color: #61c1ce">[Lazure](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20lazure.theme.css 'lazure scheme') color scheme
 
+- <span style="color: #9999FF">[Amethyst](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20amethyst.theme.css 'amethyst scheme') color scheme
+
 # **How to install?**
 
 ```github
