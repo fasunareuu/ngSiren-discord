@@ -30,7 +30,7 @@
 
 - <span style="color: #9999FF">[Amethyst](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20amethyst.theme.css 'amethyst scheme') color scheme
 
-- <span style="color: #ff93e4">[Pink(Special edition cat)](https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20pink(Special edition cat).theme.css 'pink(Special edition cat) scheme') color scheme
+- <span style="color: #ff93e4">[Pink Special edition cat](<https://github.com/fasunareuu/ngSiren-discord/blob/master/color%20shceme/ngSiren%20pink(Special%20edition%20cat).theme.css> 'pink(Special edition cat) scheme') color scheme
 
 # **How to install?**
 
